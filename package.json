@@ -1,0 +1,25 @@
+{
+  "name": "mac-memory",
+  "version": "0.0.1",
+  "description": "get memory total and used from MacOS using vm_stat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhurlow/mac-memory.git"
+  },
+  "keywords": [
+    "mac",
+    "vm_stat",
+    "memory",
+    "free"
+  ],
+  "author": "Brian Hurlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhurlow/mac-memory/issues"
+  },
+  "homepage": "https://github.com/bhurlow/mac-memory#readme"
+}
